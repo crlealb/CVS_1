@@ -11,4 +11,3 @@ Intento de completar la fase de deploy utilizando ECS.
 - ECS_TASK_FAMILY
 - ECS_CONTAINER_NAME
 
-##
